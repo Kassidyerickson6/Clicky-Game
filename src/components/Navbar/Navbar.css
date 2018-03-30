@@ -1,0 +1,29 @@
+.navbar li {
+  display: inline-block;
+  text-align: center;
+}
+
+.title {
+  width: 20%;
+}
+
+.center {
+	width: 60%;
+}
+
+.score{
+  width: 20%;
+}
+
+.navbar {
+  background: #87CEEB;
+}
+
+li {
+  color: white;
+  padding: 20px 0;
+}
+
+body {
+  font-size: 20px;
+}
